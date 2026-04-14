@@ -9,6 +9,10 @@ A simple command-line To-Do List application built using Python.
 - Clear all tasks
 - Persistent storage using file handling
 
+## ✨ Version 2 Updates
+- Edit tasks
+- Search tasks
+
 ## 🛠️ Technologies Used
 - Python
 
